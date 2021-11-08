@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 [CreateAssetMenu]
-public class MonsterType : ScriptableObject
+public class MonsterObject : ScriptableObject
 {
     public string MonsterName;
     public int StartingHealth;

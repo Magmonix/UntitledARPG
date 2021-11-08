@@ -147,11 +147,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9a2ebaf4f474d2449cb7ce0b8dc218b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  MonsterName: 
   Health: 0
   MoveSpeed: 0
   AttackSpeed: 0
   Damage: 0
-  Type: {fileID: 11400000, guid: d1b9b6ffed35b82428d1f960538e123f, type: 2}
+  Object: {fileID: 11400000, guid: d1b9b6ffed35b82428d1f960538e123f, type: 2}
 --- !u!135 &3412043634970541279
 SphereCollider:
   m_ObjectHideFlags: 0

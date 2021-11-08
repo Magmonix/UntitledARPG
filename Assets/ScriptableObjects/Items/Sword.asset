@@ -9,10 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ecae76583495a848aa3f2d4be445fcd, type: 3}
-  m_Name: Slime
+  m_Script: {fileID: 11500000, guid: 4e4caf0a956768a41b571398e27f94c2, type: 3}
+  m_Name: Sword
   m_EditorClassIdentifier: 
-  StartingHealth: 20
-  BaseMoveSpeed: 1
-  BaseAttackSpeed: 5
-  BaseDamage: 1
+  prefab: {fileID: 0}
+  type: 1
+  description: Ouch! It's sharp...
+  attackBonus: 0
+  defenseBonus: 0

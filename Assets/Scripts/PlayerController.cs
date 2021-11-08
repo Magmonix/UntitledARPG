@@ -6,6 +6,8 @@ public class PlayerController : MonoBehaviour
 {
     [SerializeField] public GameObject target;
 
+    public InventoryObject inventory;
+
     void Start()
     {
 

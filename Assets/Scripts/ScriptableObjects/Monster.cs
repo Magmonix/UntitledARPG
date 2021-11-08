@@ -8,15 +8,15 @@ public class Monster : MonoBehaviour
     public int AttackSpeed;
     public int Damage;
 
-    public MonsterType Type;
+    public MonsterObject Object;
 
     void Start()
     {
-        MonsterName = Type.MonsterName;
-        Health = Type.StartingHealth;
-        MoveSpeed = Type.BaseMoveSpeed;
-        AttackSpeed = Type.BaseAttackSpeed;
-        Damage = Type.BaseDamage;
+        MonsterName = Object.MonsterName;
+        Health = Object.StartingHealth;
+        MoveSpeed = Object.BaseMoveSpeed;
+        AttackSpeed = Object.BaseAttackSpeed;
+        Damage = Object.BaseDamage;
     }
 
     void Update()
