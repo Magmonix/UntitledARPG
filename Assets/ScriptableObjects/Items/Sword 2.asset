@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e4caf0a956768a41b571398e27f94c2, type: 3}
   m_Name: Sword 2
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 4280702188623464512, guid: dde412f6275e0604392e248622b346a8, type: 3}
   type: 1
-  description: Ouch! It's sharp...
-  attackBonus: 0
+  description: Ouch! It's the sharpest...
+  attackBonus: 20
   defenseBonus: 0

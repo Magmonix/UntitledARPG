@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e4caf0a956768a41b571398e27f94c2, type: 3}
   m_Name: Shield
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 2921015918463152541, guid: 17bfc7c735743d14999d0ca60b2b54b4, type: 3}
   type: 1
-  description: Ouch! It's sharp...
+  description: Made of wood...
   attackBonus: 0
-  defenseBonus: 0
+  defenseBonus: 5

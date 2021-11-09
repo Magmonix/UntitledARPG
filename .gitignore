@@ -70,6 +70,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# TextMeshPro
+/[Aa]ssets/[Tt]ext[Mm]esh\ [Pp]ro
+
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable

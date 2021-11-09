@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91448c41ba35ccf408c8c6f9d949c7c1, type: 3}
   m_Name: MonkFish
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 317283562206604481, guid: f299ba4beee09294096d76efb410b9ec, type: 3}
   type: 0
   description: 
   restorHealthValue: 16
